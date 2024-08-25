@@ -4,7 +4,7 @@
   "author": "THEWHTIEBOY503",
   "version": "v1.0",
   "manifest_version": 2,
-  "music": false,
+  "music": true,
   "ignore": [],
   "mappings": {}
 }
